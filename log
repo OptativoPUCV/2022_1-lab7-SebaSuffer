@@ -44,3 +44,9 @@ Sat May  7 17:46:24 HSP 2022:
  1 file changed, 1 insertion(+), 1 deletion(-)
  tests:  0|0
 186c62c
+Sat May  7 17:46:44 HSP 2022: 
+ heap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  0|4
+total_score: 0/70
+92f436f
