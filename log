@@ -2,3 +2,14 @@ Sat May  7 17:40:26 HSP 2022:
  tests:  0|4
 total_score: 0/70
 5d06705
+Sat May  7 17:41:18 HSP 2022: 
+ heap.c | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+In file included from test.c:4:0:
+heap.c: In function 'createHeap':
+heap.c:39:16: error: assignment makes integer from pointer without a cast [-Werror=int-conversion]
+    heap->capac = NULL;
+                ^
+cc1.exe: all warnings being treated as errors
+Compilation failed
+2c56325
